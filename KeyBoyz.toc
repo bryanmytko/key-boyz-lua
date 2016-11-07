@@ -1,0 +1,8 @@
+## Interface: 70000
+## Title: KeyBoyz
+## Notes: Track your Boyz's keys
+## Version: 0.1
+## Author: Bryan Mytko
+## SavedVariables: KeyBoyzData
+
+KeyBoyz.lua
